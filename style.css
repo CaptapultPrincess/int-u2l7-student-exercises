@@ -13,8 +13,12 @@
 /* 3. Recheck the ratio now. Afterwards, go to the HTML file.*/
 
 body {
-    background-color: #d93f3f;
-    color: #eb2626;
+    background-color: #eae4c7;
+    color: #560808;
+p{
+    color: black;
+    font-size: 25px
+}
 }
 
 
